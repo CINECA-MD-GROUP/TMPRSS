@@ -28,6 +28,7 @@ This repository contains representative structures of the clusters obtained from
 
 [pdb4](C4.pdb)
 
+For reference, the simulation protocol used to run the simulations is reported [here](Readme.txt)
 ## Further information
 For requests about this repository, please contact: Andrew Emerson, a.emerson@cineca.it 
 
