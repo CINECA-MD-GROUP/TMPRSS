@@ -18,7 +18,7 @@ Corresponding Authors: Correspondence: B.C, b.chandramouli@cineca.it; F.M., fran
 If accepted the full reference will be included here.
 
 ## Contents
-This repository contains representative structures of the clusters obtained from the simulaton trajectories. There are 4 pdb files, where each file contains 100 structures.
+This repository contains representative structures of the clusters obtained from the simulaton trajectories. There are 4 pdb files, where each file contains 100 structures (backbone only).
 
 [pdb1](C1.pdb)
 
