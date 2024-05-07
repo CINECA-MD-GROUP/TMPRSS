@@ -15,7 +15,9 @@ Author list:
 
 Corresponding Authors: Correspondence: B.C, b.chandramouli@cineca.it; F.M., francesco.musiani@unibo.it
 
-If accepted the full reference will be included here.
+The full reference for this work:
+
+>Frumenzio G, Chandramouli B, Besker N, Grottesi A, Talarico C, Frigerio F, Emerson A, Musiani F. Conformational response to ligand binding of TMPRSS2, a protease involved in SARS-CoV-2 infection: Insights through computational modeling. Proteins. 2023 Sep;91(9):1288-1297. doi: 10.1002/prot.26548. Epub 2023 Jul 6. PMID: 37409524.
 
 ## Contents
 This repository contains representative structures of the clusters obtained from the simulaton trajectories. There are 4 pdb files, where each file contains 100 structures (backbone only).
